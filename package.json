@@ -1,0 +1,27 @@
+{
+  "name": "heartcode",
+  "version": "1.0.0",
+  "description": "This website contains the remanences of a multi module repo of systems that teach basic web programing with HTML, CSS, JavaScript facilitated through the use of Vue.js + Nuxt.js.",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxt/content": "^1.5.0",
+    "@nuxtjs/axios": "^5.12.0",
+    "@nuxtjs/pwa": "^3.0.0-beta.20",
+    "@smu-heartcode/vuep": "^0.8.2",
+    "@tailwindcss/typography": "^0.2.0",
+    "codemirror": "^5.58.1",
+    "nuxt": "^2.14.0",
+    "strip-indent": "^3.0.0",
+    "vue-highlightjs": "^1.3.3"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^2.1.0",
+    "@types/lodash": "^4.14.160",
+    "less": "^3.12.2",
+    "less-loader": "^7.0.1"
+  }
+}

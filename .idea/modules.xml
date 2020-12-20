@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/heartcode-app.iml" filepath="$PROJECT_DIR$/.idea/heartcode-app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/api.iml" filepath="$PROJECT_DIR$/.idea/api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/serve.iml" filepath="$PROJECT_DIR$/.idea/serve.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/web.iml" filepath="$PROJECT_DIR$/.idea/web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/heartcode.iml" filepath="$PROJECT_DIR$/.idea/heartcode.iml" />
     </modules>
   </component>
 </project>
